@@ -19,10 +19,10 @@ I am a seasoned and approachable Software Developer, passionate about crafting d
 
 🛠  Tech Stack
 
-💻   Python[Flask, FastAPI, Django], JavaScript[NodeJS, ExpressJS, React, Vue], Typescript
+💻   Python[Flask, FastAPI, Django], JavaScript[NodeJS, ExpressJS, NestJS, React, Vue], Typescript, Golang, Java[Spring, Springboot] 
 
 
-🌐   HTML5 CSS Bootstrap/Tailwind/MUI JavaScript TypeScript React, NextJS
+🌐   HTML5 CSS Bootstrap/Tailwind/MUI JavaScript TypeScript React, NextJS, Vue
 
 
 🛢   MySQL, MONGODB, PostgreSQL
